@@ -168,12 +168,3 @@ This solution can help e-commerce organizations:
 ├── 5_Boosted_Tree.ipynb
 ├── 7_Clustering.ipynb
 
----
-
-## Author
-
-Jeffrey Tolmachewich
-
-B.S. Management Information Systems
-Minor in Business Analytics
-University of Delaware
