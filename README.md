@@ -159,12 +159,3 @@ This solution can help e-commerce organizations:
 
 ---
 
-## Repository Structure
-
-├── 1-CustomerChurnEDA.ipynb
-├── 2_Visuals.ipynb
-├── 3_Ridge.ipynb
-├── 4_Random_Forest.ipynb
-├── 5_Boosted_Tree.ipynb
-├── 7_Clustering.ipynb
-
